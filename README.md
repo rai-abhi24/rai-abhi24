@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋, My name is Abhishek Rai and I am a Software developer.
+### Hi there 👋, My name is Abhishek Rai and I am a Software Engineer.
 
 
 ## 🌐 Socials:
